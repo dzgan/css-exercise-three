@@ -23,7 +23,6 @@ body {
 }
 
 nav {
-  margin: 0 auto;
   padding: 10px 0 15px 15px;
   position: fixed;
   width: 350px;
@@ -69,7 +68,10 @@ padding: 1em;
   padding-top: 50px;
   width: 90%;
 }
-.location1 {
+.location:hover {
+  background-color: #B2AFB2;
+}
+.location {
  display: block;
  background-color: #EEEEEE;
  border: 1px solid #5A5657;
@@ -80,106 +82,3 @@ padding: 1em;
  height: 70px;
 }
 /*   padding: 10px; */
-
-
-.location10 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-
-/*   padding: 10px; */
-}
-
-.location2 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location3 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location4 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location5 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location6 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location7 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location8 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657 ;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
-.location9 {
-  display: block;
-  background-color: #EEEEEE;
-  border: 1px solid #5A5657 ;
-  float: left;
-  margin: 0%;
-  padding: 1%;
-  width: 350px;
-  height: 70px;
-/*   padding: 10px; */
-}
